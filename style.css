@@ -1,0 +1,55 @@
+/* TAG Selectors */
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background: rgb(176, 230, 230); 
+}
+
+h1 {
+	color: rgb(93, 48, 135);
+	text-align: center;
+	font-size: 48px;
+	text-shadow: black 0 0 8px;
+}
+
+p {
+	background: plum;
+	color: navy;
+	font-family: 'Georgia', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Verdana', cursive;
+}
+
+img {
+	padding: 5px;
+	margin: 10px;
+	box-shadow: black 0 0 10px;
+}
+
+/* CLASS Selectors - where are these found the HTML code? */
+
+.pink-text {
+	color: #dd2782;
+	text-transform: uppercase;
+	font-size: 42px;
+}
+
+/* ID Selectors */
+
+#image-1 {
+	height: 150px;
+	border-style: solid;
+	border-color: mediumpurple;
+	border-width: 5px;
+}
+
+#image-2 {
+	width: 300px;
+	border: dotted 5px darkgrey;
+}
