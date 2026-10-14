@@ -1,4 +1,4 @@
-# CS1 Wk04 CodeCollab
+# CS1 CodeCollab 2 - CSS Basics
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
